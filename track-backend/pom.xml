@@ -148,11 +148,11 @@
 			<version>${jersey-media-moxy.version}</version>
 		</dependency>
 		-->
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>ojdbc6</artifactId>
 			<version>11.2.0</version>
-		</dependency>
+		</dependency> -->
 		<!-- http://mvnrepository.com/artifact/com.jgeppert.struts2.bootstrap/struts2-bootstrap-plugin -->
 
 		<!-- http://mvnrepository.com/artifact/org.apache.taglibs/taglibs-standard-impl -->
