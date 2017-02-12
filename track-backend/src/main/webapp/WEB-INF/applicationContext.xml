@@ -20,7 +20,7 @@
 																	<!--bo to jest problem z tym ze nie skanował po odpowiednim pakiecie -->
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
 		<property name="driverClassName" value="org.sqlite.JDBC" />
-		<property name="url" value="jdbc:sqlite:/data/sqlite/database/track_db.sqlite" />
+		<property name="url" value="jdbc:sqlite:/home/jboss/sqlite/track_db.sqlite" />
 		<property name="maxActive" value="10" />
 		<property name="maxIdle" value="10" />
 	</bean>
