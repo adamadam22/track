@@ -5,6 +5,10 @@
     version="3.1">
     
 	<display-name>track</display-name>
+
+ 	<welcome-file-list>  
+		<welcome-file>html/home.html</welcome-file>
+	</welcome-file-list>  
 	
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
